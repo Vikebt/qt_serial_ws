@@ -1,0 +1,39 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/wheeltec/qt_serial_ws_251216/src/lslidar_ls_driver/src/input.cc" "/home/wheeltec/qt_serial_ws_251216/build/lslidar_ls_driver/CMakeFiles/lslidar_ls_input.dir/src/input.cc.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "ROSCONSOLE_BACKEND_LOG4CXX"
+  "ROS_BUILD_SHARED_LIBS=1"
+  "ROS_PACKAGE_NAME=\"lslidar_ls_driver\""
+  "lslidar_ls_input_EXPORTS"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/home/wheeltec/qt_serial_ws_251216/devel/include"
+  "/home/wheeltec/qt_serial_ws_new/src/mainwindow/src"
+  "/home/wheeltec/qt_serial_ws_new/src/mainwindow/src/location/include"
+  "/home/wheeltec/qt_serial_ws_new/src/mainwindow/src/Integrated_Navigation_sys/include"
+  "/home/wheeltec/qt_serial_ws_251216/src/lslidar_ls_driver/include"
+  "/opt/ros/noetic/include"
+  "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
+  "/usr/include/eigen3"
+  "/usr/include/pcl-1.10"
+  "/usr/include/vtk-7.1"
+  "/usr/include/freetype2"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

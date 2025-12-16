@@ -1,0 +1,8 @@
+prefix=/home/wheeltec/qt_serial_ws_251216/install
+
+Name: lslidar_ls_driver
+Description: Description of lslidar_ls_driver
+Version: 1.1.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp nodelet pcl_ros pcl_conversions std_msgs sensor_msgs

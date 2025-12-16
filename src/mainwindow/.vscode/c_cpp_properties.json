@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/l/GuaFei/qt_serial_ws/devel/include/**",
+        "/home/l/catkin_ws/devel/include/**",
+        "/home/l/ws_livox/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/l/ws_livox/src/FAST_LIO/include/**",
+        "/home/l/catkin_ws/src/lidar_pkg/include/**",
+        "/home/l/catkin_ws/src/qviz_demo/include/**",
+        "/home/l/GuaFei/qt_serial_ws/src/sbg_ros_driver/include/**",
+        "/home/l/catkin_ws/src/serial/include/**",
+        "/home/l/GuaFei/qt_serial_ws/src/serial_msgs/include/**",
+        "/home/l/catkin_ws/src/vel_pkg/include/**",
+        "/home/l/GuaFei/qt_serial_ws/src/mainwindow/include/**",
+        "/home/l/catkin_ws/src/wpr_simulation/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

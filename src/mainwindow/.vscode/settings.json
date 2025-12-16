@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/l/GuaFei/qt_serial_ws/devel/lib/python3/dist-packages",
+        "/home/l/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/l/ws_livox/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/l/GuaFei/qt_serial_ws/devel/lib/python3/dist-packages",
+        "/home/l/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/l/ws_livox/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

@@ -1,0 +1,8 @@
+prefix=/home/wheeltec/qt_serial_ws_251216/install
+
+Name: serial_msgs
+Description: Description of serial_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_generation message_runtime roscpp rospy std_msgs

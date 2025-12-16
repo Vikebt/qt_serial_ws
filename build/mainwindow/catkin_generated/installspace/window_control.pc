@@ -1,0 +1,8 @@
+prefix=/home/wheeltec/qt_serial_ws_251216/install
+
+Name: window_control
+Description: Description of window_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

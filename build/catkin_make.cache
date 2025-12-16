@@ -1,0 +1,2 @@
+lslidar_ls_driver:mainwindow:sbg_ros_driver:serial_msgs
+-DCATKIN_DEVEL_PREFIX=/home/wheeltec/qt_serial_ws_251216/devel -DCMAKE_INSTALL_PREFIX=/home/wheeltec/qt_serial_ws_251216/install -G Unix Makefiles
